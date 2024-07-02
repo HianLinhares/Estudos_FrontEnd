@@ -1,0 +1,31 @@
+*{
+    background-color: #D3D3D3;
+
+}
+
+.title{
+    font-family: "Roboto Mono", monospace;
+    margin-bottom: 40px;
+}
+
+.pagetags{
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    margin-left: 4%;
+    margin-right: 20px;
+}
+
+.pagegit{
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.pagecss{
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    margin-left: 10px;
+    margin-right: 20px;
+} 
+
