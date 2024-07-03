@@ -1,0 +1,33 @@
+*{
+    background-color: #aaa;
+}
+
+
+.div{
+    background: #aaa;
+    width:150px ; /* largura*/
+    height: 80px; /* altura */
+    padding: 20px; /* margem interna */
+    border: 10px solid #111; /* border */
+}
+
+body{
+    margin: 0px;
+}
+
+h1{
+    background-color: aqua;
+    padding: 20px;
+    width: 190px;
+    border: 4px solid;
+    margin-top: 80px;
+}
+
+h2{
+    color: green;
+    font-weight: 900px; /* peso da fonte */
+}
+
+button{
+    background-color: aquamarine;
+}
