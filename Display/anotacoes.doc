@@ -1,0 +1,13 @@
+// Span é uma tag genérica que não possuí nenhum 
+pré estilo definido ou semantica. é equivalente a uma div, mas sem o display block
+
+// Display inline: respeita o fluxo da escrita sem iniciar uma nova linha.
+Não é possível definir os valores de width, height e margin. é o estilo padrão 
+
+// Display block: Inicia uma nova linha e não permite que outros elementos
+sejam posicionados em sua linha. Aceita todas as propriedades do box model
+
+//display none: remove o elemento completamente da tela
+
+// Inline-block: o elemento continua inline, mas passa a receber as propriedades
+do box model

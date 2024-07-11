@@ -1,0 +1,16 @@
+h1{
+    border: 1px solid coral;
+}
+
+span{
+    border: 1px solid coral;
+}
+
+div{
+    border: 1px solid coral;
+}
+
+a{
+    padding: 20px;
+    display: inline-block;
+}

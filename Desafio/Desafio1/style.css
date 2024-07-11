@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+}
+
+.carros, .bicicletas{
+    background-color: black;
+    color: white;
+    margin-left: 40px;
+    margin-right: 50px;
+    border-radius: 3px;
+    
+}
+
+.valor, .ano1, .km1{
+    color: yellow;
+
+}
+
+.link{
+    padding: 4px;
+    background-color:orange;
+    display: inline-block;
+    color: black;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.alinhamento{
+    margin-left: 10px;
+    
+}
