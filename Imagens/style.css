@@ -1,0 +1,8 @@
+img{
+    max-width: 100%; 
+    /* garante que o elemento não fique maior que o elemento pai no caso o body*/
+}
+.foto{
+    width: 150px;
+    min-width: 150px;
+}

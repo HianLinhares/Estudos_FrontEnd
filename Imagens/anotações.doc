@@ -1,0 +1,3 @@
+// src: qual caminho da imagem
+// alt: descrição da imagem para cenários de acessibilidade 
+// max - widht: 100%: geralmente definimos um width máximo para a imagem, assim ela não ultrapassa além do elemento pai 
