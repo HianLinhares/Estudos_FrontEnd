@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+h2{
+    margin-top: 0px;
+}
+
+h1{
+    text-align: center; /* alinhar texto*/
+}
+
+.item{
+    background: #f7f7f7;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 4px;
+    display: grid;
+}
+
+.comprar{
+    background: rgb(187, 154, 220);
+    padding: 10px 20px;
+    color: #103;
+    text-decoration: none;
+    border-radius: 4px;
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    justify-items: center;
+}
