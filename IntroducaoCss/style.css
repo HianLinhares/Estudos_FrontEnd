@@ -1,0 +1,47 @@
+*{
+    background: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+
+h1{
+    color: rgb(52, 57, 52);
+    font-family: fantasy;
+    font-weight: 8px;
+    font-size: 20px;
+    background-color: rgb(215, 109, 109);
+    width: 50%;
+}
+
+.imgboxmodel{
+    max-width: 50%;
+    max-height: 75%;
+    border-radius: 16px;
+}
+
+article{
+    color: rgb(52, 57, 52);
+    font-family: fantasy;
+    font-weight: 8px;
+    font-size: 20px;
+    background-color: rgb(215, 109, 109);
+    width: 50%;
+}
+
+.bordaSolid{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.bordaDotted{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border: 2px dotted rgb(0, 0, 0);
+}
+
+.bordaDashed{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border: 2px dashed rgb(0, 0, 0);
+}
