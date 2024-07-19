@@ -1,0 +1,33 @@
+//FLEXBOX: foi projetado como um modelo de layout unidimensional e como um método que pode oferecer distribuições
+de espaço entre itens em uma interface e recursos de alinhamento
+
+//FLEX CONTAINER:é a tag que envolve os itens, será nela que iremos aplicar as propriedades "display:flex" transforma 
+todos os seus itens filhos em flex itens
+
+
+// PROPRIEDADES RELACIONADAS
+- display
+- flex direction
+- flex-wrap
+- flex-flow
+- justify-content
+- align itens
+- align-content
+
+//FLEX ITEM: são os elementos filhos do flex container. E podem se tornar um flex container
+
+//PROPRIEDADES RELACIONADAS
+- flex-grow
+- flex-basis
+- flex-shrink
+- flex
+- order
+- align-self
+
+
+// PROPRIEDADES DO FLEX DIRECTION
+- row: é a direção no qual estamos escrevendo os textos ( por padrão da esquerda pra direita)
+- row reverse: sentido oposto (da direita para esquerda)
+- column: ordenação de cima para baixo, em uma coluna única 
+- column-reverse: ordenação de baixo para cima, em uma única coluna
+
