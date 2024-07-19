@@ -1,0 +1,16 @@
+.umul{
+    list-style-type:square;
+}
+
+.umol{
+list-style-type: upper-roman;
+}
+
+.doisul{
+    list-style-type: "\1F44D";
+}
+
+.none{
+    list-style-type: none;
+}
+
