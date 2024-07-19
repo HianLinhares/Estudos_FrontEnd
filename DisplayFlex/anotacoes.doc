@@ -1,0 +1,54 @@
+O CSS oferece uma variedade de valores para a propriedade `display`, cada um afetando como os elementos são renderizados e dispostos na página. Aqui estão os principais tipos de display:
+
+1. **`display: none`**:
+   - O elemento não é renderizado e não ocupa espaço na página.
+
+2. **`display: block`**:
+   - O elemento é renderizado como um bloco, ocupando toda a largura disponível. Exemplos incluem `<div>`, `<h1>` - `<h6>`, e `<p>`.
+
+3. **`display: inline`**:
+   - O elemento é renderizado na mesma linha que outros elementos adjacentes, apenas ocupando o espaço necessário para seu conteúdo. Exemplos incluem `<span>`, `<a>`, e `<strong>`.
+
+4. **`display: inline-block`**:
+   - Combina características de `inline` e `block`: o elemento é renderizado na mesma linha que outros elementos adjacentes, mas pode ter largura e altura definidas.
+
+5. **`display: flex`**:
+   - Define um contêiner flexível que utiliza o Módulo de Layout Flexível para dispor seus filhos.
+
+6. **`display: inline-flex`**:
+   - Similar ao `flex`, mas o contêiner é renderizado inline, ao lado de outros elementos.
+
+7. **`display: grid`**:
+   - Define um contêiner de grade que utiliza o Módulo de Layout de Grade para dispor seus filhos em linhas e colunas.
+
+8. **`display: inline-grid`**:
+   - Similar ao `grid`, mas o contêiner é renderizado inline, ao lado de outros elementos.
+
+9. **`display: table`**:
+   - O elemento é renderizado como um elemento de tabela, semelhante ao `<table>` no HTML.
+
+10. **`display: table-row`**:
+    - O elemento é renderizado como uma linha de tabela, semelhante ao `<tr>` no HTML.
+
+11. **`display: table-cell`**:
+    - O elemento é renderizado como uma célula de tabela, semelhante ao `<td>` no HTML.
+
+12. **`display: table-column`**:
+    - O elemento é renderizado como uma coluna de tabela, semelhante ao `<col>` no HTML.
+
+13. **`display: table-caption`**:
+    - O elemento é renderizado como uma legenda de tabela, semelhante ao `<caption>` no HTML.
+
+14. **`display: contents`**:
+    - O elemento não gera uma caixa própria, mas seus filhos são renderizados como se fossem filhos do elemento pai do elemento.
+
+15. **`display: list-item`**:
+    - O elemento é renderizado como um item de lista, semelhante ao `<li>` no HTML.
+
+16. **`display: run-in`**:
+    - Um valor experimental que combina características de `block` e `inline`, dependendo do contexto.
+
+17. **`display: subgrid`**:
+    - Usado em elementos filhos dentro de um contêiner de grade, permitindo que compartilhem as linhas e colunas da grade do pai. Atualmente, tem suporte limitado nos navegadores.
+
+Cada valor de `display` tem seu uso específico e pode ser combinado com outras propriedades CSS para criar layouts complexos e responsivos.

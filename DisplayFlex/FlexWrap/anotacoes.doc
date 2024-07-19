@@ -1,0 +1,7 @@
+// FLEX WRAP: propriedade que vai definir se os itens vão ou não quebrar a linha 
+por padrão eles não quebram a linha 
+
+//PROPRIEDADES DE FLEX WRAP
+- nowrap: é o padrão onde não permitem a quebra de linha (vazamento do container)
+- wrap: permite a quebra de linha (aumenta o tamanho do container)
+- wrap-reverse: permite a quebra de linha, mas o novo item virá acima dos itens antigos

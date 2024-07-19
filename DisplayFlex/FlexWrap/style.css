@@ -1,0 +1,43 @@
+.flex-containerdois{
+    display: flex;
+    height: 150px;
+    border: 2px dashed black;
+    max-width: 300px;
+}
+
+.itemdois{
+    font-size: 24px;
+    height: 50%;
+    text-align: center;
+    min-width: 100px;
+    line-height: 50px;
+    color: wheat;
+}
+
+.nowrap{
+    flex-wrap: nowrap;
+}
+
+.blue{
+    background: blue;
+}
+
+.green{
+    background: green;
+}
+
+.orange{
+    background: orange;
+}
+
+.black{
+    background: black;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.wrap-reverse{
+    flex-wrap: wrap-reverse;
+}

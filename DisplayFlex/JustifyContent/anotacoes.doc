@@ -1,0 +1,10 @@
+// Vai ser responsável pelo alinhamento dos itens dentro do container
+de acordo com a direção pretendida na interface
+
+
+//PROPRIEDADES JUSTIFI-CONTENT
+- flex-start: inicio do container
+- flex-end: final do container
+- center: ao centro do container
+- space between: cria um espaçamento igual entre os elementos
+- space-aroud: os espaçamento do meio são duas vezes maiores que o incial e final

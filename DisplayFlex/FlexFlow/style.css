@@ -1,0 +1,35 @@
+.flex-container {
+    display: flex;
+    border: 10px solid black;
+    max-width: 500px;
+}
+
+.item {
+    background: rebeccapurple;
+    margin: 5px;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    line-height: 30px;
+
+}
+
+
+.default{
+    flex-flow:row nowrap;
+}
+
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.wrap-reverse{
+    flex-wrap: wrap-reverse;
+}
+
+.row-reverse-nowrap{
+    flex-wrap:nowrap;
+    flex-direction: row-reverse;
+}

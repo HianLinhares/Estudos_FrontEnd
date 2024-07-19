@@ -1,3 +1,5 @@
+
+
 .flex{
     max-width: 300px;
     padding: 10px;
@@ -16,6 +18,7 @@
     display: flex;
     list-style: none;
     border: 5px solid black;
+    background: rgb(196, 194, 194);
 }
 
 .flex-item{
@@ -53,8 +56,19 @@
 .column-reverse{
     float: right;
     flex-direction: column-reverse;
+    margin-bottom: 40px;
 }
 
 .column-reverse li{
     background: black;
+}
+
+.alinhamento{
+     text-align: end;
+     margin-top: -60px;
+}
+
+.alinhamento2{
+    width: 400px;
+    
 }
