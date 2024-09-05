@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.card{
+    width: 720px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    border: 8px solid black;
+}
+
+
+
+.cardLeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.cardLeft > h1{
+    margin-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.cardLeft > span{
+    font-weight: bold;
+    font-family: monospace;
+
+}
+
+.cardLeft > p{
+    font-size: 15px;
+    color: gray;
+}
+
+
+img{
+    width: 200px;
+    margin-left: 8px;
+    margin-top: 3px;
+}
+
+
+/* Dom - Document Object Model */
