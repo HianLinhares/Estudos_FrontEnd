@@ -1,0 +1,16 @@
+React - Biblioteca javascript
+
+SPA - Single page aplication
+
+
+{
+Compilers - Ferramentas que convertem um código para outro, ex: converte uma versão mais atualizada de javascript
+para o navegador
+
+
+
+
+Babel - Exemplo de conversor
+
+
+}
